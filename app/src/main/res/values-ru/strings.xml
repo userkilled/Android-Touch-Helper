@@ -4,8 +4,8 @@
     <string name="title_settings">Настройки</string>
     <string name="title_about">О нас</string>
     <string name="status_title">服务状态</string>
-    <string name="text_instructions">\"Android Touch Helper\"сервис на основе системы Android для достижения функции пропуска автоматической рекламы, открытый исходный код не имеет доступа в Сеть, абсолютно безопаснj! Чтобы убедиться, что программа работает должным образом, проверьте следующие настройки:</string>
-    <string name="text_accessibility_permission">1. 在\"无障碍\"设置里，打开\"Android Touch Helper - 无障碍服务\"。</string>
+    <string name="text_instructions">\"Android Touch Helper\" сервис на основе системы Android для достижения функции пропуска автоматической рекламы, открытый исходный код не имеет доступа в Сеть, абсолютно безопаснj! Чтобы убедиться, что программа работает должным образом, проверьте следующие настройки:</string>
+    <string name="text_accessibility_permission">1. 在\"无障碍\"设置里，打开\"Android Touch Helper - 无障碍服务\".</string>
     <string name="text_power_permission">2. 在\"电池优化\"设置里，设置\"Android Touch Helper\"为\"不优化\"。</string>
     <string name="text_rom_battery">3. 在电池管理里，设置\"Android Touch Helper\"为\"允许后台耗电\"。设置方法因品牌不同有所差异，比如VIVO系统为：\"设置\" -> \"电池\" -> \"后台耗电管理\"。</string>
     <string name="text_task_manager">4. 在\"任务管理\"里，锁定\"Android Touch Helper\"。</string>
@@ -13,15 +13,15 @@
     <string name="text_status_weblink">https://touchhelper.zfdang.com/enable</string>
 
     <string name="button_setting">Настройки</string>
-    <string name="touch_helper_service_label">开屏跳过-无障碍服务</string>
-    <string name="touch_helper_service_description">\"开屏跳过\"是基于安卓系统的无障碍服务来实现自动跳过广告功能的，为了保证程序能正常工作，打开此服务。\n\n本程序为开源程序，不需要网络权限，不会收集或上传任何个人信息，请放心使用！</string>
+    <string name="touch_helper_service_label">Android Touch Helper - доступные возможности</string>
+    <string name="touch_helper_service_description">\"Androidn Touch Helper" он основан на безбарьерном сервисе системы Android для автоматического пропуска рекламной функции. Чтобы гарантировать, что программа может работать должным образом, эта служба открыта. \n\nЭта программа является программой с открытым исходным кодом, которая не требует разрешения сети и не будет собирать или загружать какую-либо личную информацию, пожалуйста, используйте ее с уверенностью!</string>
     <string name="about_app_introduction">
-        \"Android touch Helper\"可以帮助用户自动跳过一些应用的开屏广告，基于Android的无障碍服务实现。
-        \n\n程序可以使用三种方法跳过开屏广告：
+        \"Android Touch Helper\" - это может помочь пользователям автоматически пропустить рекламу на открытом экране для некоторых приложений на основе сервиса Android.
+        \n\nПрограмма может использовать три метода для пропуска рекламы на открытом экране:
         \n\n1. 关键字。在应用中查找含有关键字的按钮，如果发现了对应的按钮，自动帮用户点击从而跳过广告；
         \n2. 应用里的指定控件。当应用工作时，自动查找对应的控件，如果找到则自动点击；
         \n3. 应用里的指定位置。当应用工作时，自动点击对应的区域。
-        \n\n上述三种方法可以在\"设置\"里做具体设置。
+        \n\nВышеуказанные три метода могут быть указаны в \"Настройка\"
         \n\nДля получения дополнительной информации, пожалуйста, посетите веб-сайт:
     </string>
 
